@@ -58,7 +58,7 @@ app.listen(3000, () => {
 
 client.calls
     .create({
-        url: 'https://4253-2409-40f0-12b-8ad4-1857-d744-8eaa-64d7.ngrok-free.app/ivr-call', // This should be your ngrok URL
+        url: 'https://70f6-2409-40f0-112-4c49-29f0-86a3-783d-6be8.ngrok-free.app/ivr-call', // This should be your ngrok URL
         to: '+918639002726', 
         from: '+18563734343',    
     })
